@@ -1,0 +1,89 @@
+* {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+body {
+  background-color: #252426;
+}
+
+#titulo {
+  font-size: 40px;
+  font-weight: 9000;
+  font-family: fantasy;
+  letter-spacing: 4px;
+  text-decoration: underline solid 7px #e30f48;
+  text-align: center;
+  color: rgba(230, 224, 224, 0.851);
+}
+
+.carro,
+.bike {
+  color: #fffffffb;
+  letter-spacing: 2px;
+  padding: 14px;
+  padding-left: 22px;
+  margin-left: 20px;
+}
+
+.preco-carro,
+.preco-bike {
+  text-decoration: underline;
+  color: #e30f48;
+}
+
+.modelo-carro,
+.modelo-bike {
+  text-decoration: 5px underline #99062d;
+  color: #e30f48;
+}
+.setinha,
+.setinha-dois {
+  color: #ffffff;
+}
+
+.bikes-kms,
+.carros-kms {
+  text-decoration: 5px underline #99062d;
+  color: #e30f48;
+}
+
+.link-carro,
+.link-bike {
+  text-decoration: none;
+  display: inline-block;
+  background-color: #99062d;
+  padding: 5px;
+  border: solid rgb(27, 26, 26) 3px;
+  border-radius: 29px;
+  color: rgb(255, 255, 255);
+}
+
+.contato {
+  font-family: fantasy;
+  font-size: larger;
+  text-align: center;
+}
+
+div h2 {
+  margin: 30px;
+  background-color: #070707;
+}
+
+.carros,
+.bikes {
+  color: #c7c5c5;
+  font-size: 21px;
+}
+
+footer {
+  color: #fdfafb8d;
+  font-size: 20px;
+  font-weight: 280;
+  text-decoration: none;
+}
+
+img {
+  margin-top: 20px;
+  margin-left: 45px;
+  border: solid black 3px;
+  border-radius: 9px;
+}
